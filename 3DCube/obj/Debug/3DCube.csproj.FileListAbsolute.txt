@@ -1,0 +1,9 @@
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\obj\Debug\_DCubeNoGimbalLock.FrmRender.resources
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\obj\Debug\_DCubeNoGimbalLock.Properties.Resources.resources
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\obj\Debug\3DCube.csproj.GenerateResource.Cache
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\bin\Debug\Visualizacja.exe
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\bin\Debug\Visualizacja.pdb
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\obj\Debug\Visualizacja.exe
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\obj\Debug\Visualizacja.pdb
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\3DCubeNoGimbalLock\3DCube\obj\Debug\_DCubeNoGimbalLock.AboutBox1.resources
